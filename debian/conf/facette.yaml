@@ -37,4 +37,6 @@ frontend:
 
 hide_build_details: true
 
+#read_only: true
+
 # vim: ft=yaml ts=2 sw=2 et
